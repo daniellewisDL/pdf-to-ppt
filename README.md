@@ -5,4 +5,4 @@ A lightweight pdf to ppt converter
 [Equations explorer - Sharing for Streamlit](https://share.streamlit.io/daniellewisdl/pdf-to-ppt/main/app.py)
 
 # Show me
-![Equations explorer](https://github.com/daniellewisDL/equations-explorer/blob/master/converter.png)
+![pdf-to-ppt](https://github.com/daniellewisDL/equations-explorer/blob/main/converter.png)
